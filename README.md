@@ -101,7 +101,7 @@ Open the encoded.txt file and write after the encoded instruction those 5 member
     "In encoded.txt"
 
     2520055808
-    5177
+    5117
     11625
     64043
     45425
